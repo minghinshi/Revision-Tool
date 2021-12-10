@@ -1,4 +1,4 @@
 # Revision Tool
-*Asks questions and check your answers.*  
+*Asks questions and checks your answers.*  
 
 This is a school project.
