@@ -4,7 +4,7 @@
 
 ### Usage
 
-Run the tool. You will be asked to choose between a ['loose marking mode' and a 'strict marking mode'](#marking). After choosing, you should see a question pop up, and you will be allowed to type in an answer. When you are finished, press [Enter].
+Run the tool. You will be asked to choose between a ['loose marking mode' and a 'strict marking mode'](#marking). After choosing, you should see a question pop up, and you will be allowed to type in an answer. When you are finished, press Enter.
 
 The revision tool will then display if you got the question correct, and if you're wrong, it will display the correct answer. The revision tool will then loop to the next question, until it is finished. However, if there are wrong answers, it will ask you the same question again (as some sort of correction).
 
@@ -12,7 +12,7 @@ The revision tool will then display if you got the question correct, and if you'
 
 There will be two modes: loose marking mode and strict marking mode.
 
-In strict marking mode, your answer is simply checked against a model answer, If they do not match (even if you're just missing a fullstop!) it will regard your answer as incorrect.
+In strict marking mode, your answer is simply checked against a model answer. If they do not match (even if you're just missing a fullstop!) it will regard your answer as incorrect.
 
 In loose marking mode, your answer is checked against a list of keywords. If your answer contails all of the keywords, you are correct.
 
