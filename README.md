@@ -24,3 +24,5 @@ Go to a file called "questions.txt". You will find several preset questions ther
 To add a new question, start a new line. Each line should contain only 1 question, and then a | (vertical bar), and then the model answer.
 
 If you wish to allow loose marking mode for this question, type another |, followed by a keyword, and then another |, and so on. You may have as many keywords as you want in a question (but make sure that the keywords are absolutely necessary in your answer, i.e. not something like 'is', 'the', etc.)
+
+The validity of the question is checked during initialization. A question is considered invalid if there is no question, no answer, or any one of the keywords are blank.
