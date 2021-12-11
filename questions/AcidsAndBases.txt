@@ -1,0 +1,4 @@
+Lemons contain which type of acid?|citric acid
+Vinegar contain which type of acid? Give the systematic name.|ethanoic acid
+Soft drinks contain which type of acid?|carbonic acid
+What are the 3 common acids used in the laboratory?|Hydrochloric acid, sulphuric acid and nitric acid|hydrochloric acid|sulphuric acid|nitric acid

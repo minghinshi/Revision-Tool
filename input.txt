@@ -1,3 +1,0 @@
-What does a compiler do?|A compiler translates source code into object code as a whole in one go.|translate|object code|in one go
-What does an interpreter do?|An interpreter translates source code into immediate instructions and immediately execute it one at a time.|translate|immediate|one at a time
-What does a linker do?|A linker takes pre-compiled object files or libraries of system functions and links them together with the compiled main program into a single executable file.|libraries|together|executable file
